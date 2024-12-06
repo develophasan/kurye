@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962738949203",
+    "project_id": "kur-ye-4a906",
+    "storage_bucket": "kur-ye-4a906.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962738949203:android:bb657f70eb146b5bc24aa6",
+        "android_client_info": {
+          "package_name": "com.kurye.kurYe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB40ltl3RloB4e9YMOqZ9WCO-vLqD1jIX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
